@@ -13,4 +13,5 @@ public class ContBanck {
 
     private int account;
     private int agency;
+    private double balance;
 }
