@@ -1,4 +1,4 @@
-package com.service;
+package com.utility;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

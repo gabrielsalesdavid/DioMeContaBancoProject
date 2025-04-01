@@ -1,4 +1,4 @@
-import com.service.Client;
+import com.utility.Client;
 import com.service.BankAccount;
 
 import java.util.Locale;
