@@ -9,9 +9,9 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class ContBanck {
+public class BankAccount {
 
     private int account;
-    private int agency;
+    private String agency;
     private double balance;
 }
